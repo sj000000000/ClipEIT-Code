@@ -1,0 +1,22 @@
+10/30/26
+
+Summary: 
+Tested functionality of calibration, data return, and sensors.
+
+STATUS: Success
+
+Debug and tweak notes: 
+Unstable voltage, add resistor
+Calibration is setting baseline instead of reseting, fix in next iteration.
+Debug echo calculation.
+
+Iteration 2 notes:
+DALHIN MO LAPTOP MO NEXT TIME ASGDFUY AGFU: IGAULYHVFAHS:JHD
+Do 5 US Sensors, and 2 IR sensors, if successful, do 5.
+Test PWM on vibrators.
+Use the 5V Booster and connect the charging module.
+
+Iteration 2 Goals:
+all 10 sensors working
+vibration tested (P.S, if all 3 vibration ERM coins are complete, then complete the circuit.)
+Calibration tweaked
